@@ -1,0 +1,6 @@
+{
+  "name": "Raider-Latino",
+  "pluginClassName": "com.raiderlatino.RaiderLatinoPlugin",
+  "version": 1,
+  "requiresResources": false
+}

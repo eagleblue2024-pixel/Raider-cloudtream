@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Raider-Latino",
+    "internalName": "RaiderLatinoProvider",
+    "pluginClassName": "com.raiderlatino.RaiderLatinoPlugin",
+    "version": 1,
+    "description": "Extensión oficial Raider-Latino para CloudStream 3 en Español Latino 4K UHD y 1080p.",
+    "authors": [
+      "Raider"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "language": "es"
+  }
+]
